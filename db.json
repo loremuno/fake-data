@@ -1,16 +1,16 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Post 1"
+      "value": 1,
+      "label": "Post 1"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "value": 2,
+      "label": "Post 2"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "value": 3,
+      "label": "Post 3"
     }
   ],
   "comments": [
